@@ -5,5 +5,5 @@ title: simple site
 <!-- description:  -->
 ---
 
-Hello World, Jerry!
+Hi, Jerry!
 
