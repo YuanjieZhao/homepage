@@ -1,9 +1,7 @@
 ---
 layout: page
-title: simple site
+title: Hello World
 <!-- tagline:  -->
 <!-- description:  -->
 ---
-
-Hi, Jerry!
 
