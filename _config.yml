@@ -10,12 +10,11 @@ highlighter: rouge
 #
 title : Jerry Zhao
 author :
-  name : Yuanjie Zhao
+  name : Jerry Zhao
   email : 
   github : 
 
-# NOTE: Replacing this next line with your own URL
-production_url : https://yuanjiezhao.github.io/homepage
+production_url : https://yuanjiezhao.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -48,9 +47,8 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  #
-  # NOTE: Replace this next line with your own URL, likely with username.github.io
-  BASE_PATH : https://yuanjiezhao.github.io/homepage
+
+  BASE_PATH : https://yuanjiezhao.github.io
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
